@@ -1,4 +1,4 @@
-<h1>My Portfolio Website<h1>
+<h1>My Portfolio Website</h1>
 
 <p>Credit where credit is due:</p>
   <ul><li>Chocolat by Nicolas Turlais used for lightbox galleries</li>
