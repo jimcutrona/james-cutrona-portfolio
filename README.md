@@ -1,5 +1,5 @@
-My Portfolio Website
+<h1>My Portfolio Website<h1>
 
-Credit where credit is due:
-  Chocolat by Nicolas Turlais used for lightbox galleries
-  Lity by Jan Sorgalla used for AJAX About section
+<p>Credit where credit is due:</p>
+  <ul><li>Chocolat by Nicolas Turlais used for lightbox galleries</li>
+  <li>Lity by Jan Sorgalla used for AJAX About section</li></ul>
